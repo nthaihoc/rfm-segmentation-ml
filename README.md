@@ -6,7 +6,7 @@
 
 | [**PDF**](https://) 
 | [**Website**](https://books.google.com.vn/books?hl=vi&lr=&id=U7VNEQAAQBAJ&oi=fnd&pg=PA151&ots=nVD6xihs4e&sig=0ttGfynVgVQVw_Xn1QdzW0_babM&redir_esc=y#v=onepage&q&f=false) 
-| [bixtex](requirement.txt) |
+|
 
 
 ## Introduction
