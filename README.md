@@ -4,7 +4,7 @@
 
 [Thai Hoc Nguyen*](https://nthaihoc.github.io/about-me/), [Xuan Thi Tran*](https://www.facebook.com/profile.php?id=100011111342596) (*equal contribution)
 
-| [**PDF**](https://) | [**BibTex**](https://) | [**Website**](https://) |
+| [**PDF**](https://) | [**BibTex**](https://scholar.googleusercontent.com/scholar.bib?q=info:jDDvSmlkNE0J:scholar.google.com/&output=citation&scisdr=ClGaGgM9ELX23GU65uo:AFWwaeYAAAAAZ9g8_up_MrLZJ0aQEKeamQuWVXQ&scisig=AFWwaeYAAAAAZ9g8_k384twAP8TFVEoPdVIHMvA&scisf=4&ct=citation&cd=-1&hl=vi) | [**Website**](https://) |
 
 
 ## Introduction
