@@ -4,7 +4,9 @@
 
 [Thai Hoc Nguyen*](https://nthaihoc.github.io/about-me/), [Xuan Thi Tran*](https://www.facebook.com/profile.php?id=100011111342596) (*equal contribution)
 
-| [**PDF**](https://) | [**BibTex**](https://scholar.googleusercontent.com/scholar.bib?q=info:jDDvSmlkNE0J:scholar.google.com/&output=citation&scisdr=ClGaGgM9ELX23GU65uo:AFWwaeYAAAAAZ9g8_up_MrLZJ0aQEKeamQuWVXQ&scisig=AFWwaeYAAAAAZ9g8_k384twAP8TFVEoPdVIHMvA&scisf=4&ct=citation&cd=-1&hl=vi) | [**Website**](https://) |
+| [**PDF**](https://)
+| [**BibTex**](https://scholar.googleusercontent.com/scholar.bib?q=info:jDDvSmlkNE0J:scholar.google.com/&output=citation&scisdr=ClGaGgM9ELX23GU65uo:AFWwaeYAAAAAZ9g8_up_MrLZJ0aQEKeamQuWVXQ&scisig=AFWwaeYAAAAAZ9g8_k384twAP8TFVEoPdVIHMvA&scisf=4&ct=citation&cd=-1&hl=vi) 
+| [**Website**](https://books.google.com.vn/books?hl=vi&lr=&id=U7VNEQAAQBAJ&oi=fnd&pg=PA151&ots=nVD6xihs4e&sig=0ttGfynVgVQVw_Xn1QdzW0_babM&redir_esc=y#v=onepage&q&f=false) |
 
 
 ## Introduction
@@ -68,12 +70,8 @@ After successfully installing all the above steps, run the following command to 
 $ dvc repro
 ```
 
-&nbsp;
-
 ## Contributing
 For any feedback or comments, please feel free to contact me through the following information [**thaihoc.ictu@gmail.com**](mailto:thaihoc.ictu@gmail.com)
-
-&nbsp;
 
 ## Citation
 ```bash
@@ -85,3 +83,4 @@ For any feedback or comments, please feel free to contact me through the followi
   organization={Springer Nature}
 }
 ```
+
